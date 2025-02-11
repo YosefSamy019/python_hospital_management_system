@@ -1,0 +1,11 @@
+,name,id,specialization,availableTimeList
+0,ali,12,heart,sun#mon#fri
+1,samy,15,surgery,sun#thr#fri
+2,sara,18,neurology,mon#tue#wed
+3,omar,20,orthopedics,tue#wed#thr
+4,layla,25,pediatrics,mon#wed#fri
+5,khaled,30,dermatology,sun#tue#thr
+6,amal,22,psychiatry,mon#thr#fri
+7,hesham,28,radiology,tue#wed#fri
+8,fatima,35,cardiology,mon#tue#thr
+9,mohamed,40,endocrinology,sun#wed#fri
